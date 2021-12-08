@@ -1,0 +1,1 @@
+This repository contains the exercises and projects develop by me in the MIT-IDSS Data Science Machine Learning (DSML) course, from GreatLearning. This exercises are made through jupyter notebooks. All the solutions are made by me. 
